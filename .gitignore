@@ -1,0 +1,6 @@
+# Created by .gitignore support plugin (hsz.mobi)
+.idea
+gradlew
+samples-spring-boot-hateoas.iml
+gradlew.bat
+gradle
